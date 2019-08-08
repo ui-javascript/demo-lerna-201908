@@ -1,4 +1,4 @@
-console.log('core')
+console.log('core!!')
 
 const API = 'https://yande.re/post/popular_recent.json';
 
